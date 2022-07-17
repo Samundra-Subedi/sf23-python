@@ -1,3 +1,4 @@
+#GCD is same as HCF
 def computeGCD(x, y):
     while y:
         x, y = y, x % y
